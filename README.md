@@ -1,4 +1,4 @@
-# Movie Recommendation System 🎬
+# Movie Recommendation System using NLP 
 
 A movie recommendation web app that suggests up to **9 similar movies** based on a combination of features like overview, keywords, genres, cast, and crew. Built using Python, NLP techniques, and deployed with Streamlit.
 
