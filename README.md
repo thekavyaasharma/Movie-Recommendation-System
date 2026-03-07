@@ -126,7 +126,7 @@ Make sure you have:
 
 ---
 
-## 🎉 Thank You
+##  Thank You
 
 Thank you for checking out my project!  
 Feel free to **explore the code**, **try the live demo**, and **share your feedback**.  
