@@ -68,7 +68,7 @@ Many viewers want suggestions for movies similar to one they like. This project 
 
 ## 🤖 How It Works (High Level)
 
-### 🧹 Data Loading & Cleaning
+###  Data Loading & Cleaning
 - Load TMDB dataset  
 - Handle missing values  
 - Extract relevant columns (**overview**, **genres**, **cast**, **crew**, **keywords**)
