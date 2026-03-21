@@ -21,7 +21,7 @@ Many viewers want suggestions for movies similar to one they like. This project 
 
 ---
 
-## 🧩 File Structure
+##  File Structure
 
 | File | Description |
 |---|---|
