@@ -4,13 +4,13 @@ A movie recommendation web app that suggests up to **9 similar movies** based on
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 Many viewers want suggestions for movies similar to one they like. This project generates movie recommendations by combining multiple metadata features (overview, keywords, genres, cast, crew), vectorizing the text, applying stemming, and computing similarity scores. The result is an easy-to-use interface to find related films.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Combines multiple metadata features (overview, genres, cast, crew, keywords)  
 - Uses vectorization (TF-IDF / Count Vectorizer) + text preprocessing (stemming)  
